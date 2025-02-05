@@ -28,14 +28,9 @@
 
 # Work History
 - **Australis Asset Advisory Group**  
-  🗺️ GIS | Data Specialist  
-  
 - **AB Surveying and Development**  
-  📊 GIS | Data Processor  
-
-- **Golden Arches**  
-  ☕ Customer Service Representative  
-
+- **Golden Arches**
+- 
 # Certifications
 - SQL Associate (Datacamp)
 - Python Data Associate (Datacamp)
