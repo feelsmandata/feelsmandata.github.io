@@ -10,27 +10,32 @@
 - Links
 
 # Education
-- **Naga College Foundation, Naga City, 4400**  
-  📚 Postgraduate
+- **Naga College Foundation**  
+  📚 Postgraduate  
+  Naga City, 4400  
 
-- **Bicol State College of Applied Sciences and Technology, Naga City, 4400**  
-  🎓 Bachelor of Education Major in Technology and Livelihood Education (TLE)
+- **Bicol State College of Applied Sciences and Technology**  
+  🎓 Bachelor of Education Major in Technology and Livelihood Education (TLE)  
+  Naga City, 4400  
 
-- **AMA University, Legazpi City, 4500**  
-  💻 Bachelor of Computer Science (Computer Science) [Undergraduate]
+- **AMA University**  
+  💻 Bachelor of Computer Science (Computer Science) [Undergraduate]  
+  Legazpi City, 4500  
 
-- **AMA Computer Learning Centre, Naga City, 4400**  
-  🔧 Computer Programming NC IV
+- **AMA Computer Learning Centre**  
+  🔧 Computer Programming NC IV  
+  Naga City, 4400  
 
-- **Camarines Sur Polytechnic Colleges, Naga City, 4400 (formerly BISCAST)**  
-  🏛️ Bachelor of Architecture [Undergraduate]
+- **Camarines Sur Polytechnic Colleges (formerly BISCAST)**  
+  🏛️ Bachelor of Architecture [Undergraduate]  
+  Naga City, 4400  
 
 
 # Work History
 - **Australis Asset Advisory Group**  
 - **AB Surveying and Development**  
 - **Golden Arches**
-- 
+  
 # Certifications
 - SQL Associate (Datacamp)
 - Python Data Associate (Datacamp)
