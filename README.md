@@ -35,6 +35,7 @@
 - Python Data Associate (Datacamp)
 - Data Analyst Associate (Datacamp)
 - Data Engineer Associate (Datacamp)
-- Excel Associate (DSA)
+- Excel Specialist (Data Sense Analytics : MO 200)
+- Data Analysis with Python (Freecodecamp)
 - Fulcrum (Fulcrum)
 - Computer Programming NC IV (National Competency Certification)
