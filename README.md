@@ -28,9 +28,12 @@
 
 
 # Work History
-- Australis Asset Advisory Group (GIS | Data Specialist)
-- AB Surveying and Development (GIS | Data Processor)
-- Golden Arches (formerly known as McDonald's) (Customer Service Representative)
+- **Australis Asset Advisory Group**
+  GIS | Data Specialist
+- **AB Surveying and Development**
+  GIS | Data Processor
+- **Golden Arches (formerly known as McDonald's)**
+  Customer Service Representative
 
 # Certifications
 - SQL Associate (Datacamp)
