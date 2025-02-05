@@ -9,6 +9,8 @@
 - Description
 - Links
 
+---
+
 # Education
 - **Naga College Foundation**  
   📚 Postgraduate  
@@ -30,6 +32,7 @@
   🏛️ Bachelor of Architecture [Undergraduate]  
   Naga City, 4400  
 
+---
 
 # Work History
 - **Australis Asset Advisory Group**  
