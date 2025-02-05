@@ -35,7 +35,8 @@
 - **Australis Asset Advisory Group**  
 - **AB Surveying and Development**  
 - **Golden Arches**
-  
+
+
 # Certifications
 - SQL Associate (Datacamp)
 - Python Data Associate (Datacamp)
