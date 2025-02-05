@@ -33,16 +33,23 @@
 
 # Work History
 - **Australis Asset Advisory Group**  
-- **AB Surveying and Development**  
-- **Golden Arches**
+  🗺️ GIS | Data Specialist  
 
+- **AB Surveying and Development**  
+  📊 GIS | Data Processor  
+
+- **Golden Arches**  
+  ☕ Customer Service Representative  
+
+---
 
 # Certifications
-- SQL Associate (Datacamp)
-- Python Data Associate (Datacamp)
-- Data Analyst Associate (Datacamp)
-- Data Engineer Associate (Datacamp)
-- Excel Specialist (Data Sense Analytics : MO 200)
-- Data Analysis with Python (Freecodecamp)
-- Fulcrum (Fulcrum)
+- SQL Associate (Datacamp)  
+- Python Data Associate (Datacamp)  
+- Data Analyst Associate (Datacamp)  
+- Data Engineer Associate (Datacamp)  
+- Excel Specialist (Data Sense Analytics: MO 200)  
+- Data Analysis with Python (Freecodecamp)  
+- Fulcrum (Fulcrum)  
 - Computer Programming NC IV (National Competency Certification)
+
