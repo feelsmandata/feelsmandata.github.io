@@ -1,9 +1,10 @@
 # feelsmandata.github.io
 
 ## Projects
-### Project 1 
-- Description
-- Links
+
+### Project 1: Flood Extent Analysis
+- **Description**: This project focuses on analyzing flood extents across various regions. It includes geospatial data processing, data cleaning and visualizations to understand areas most affected by floods and their associated risks to the population.
+- **Link**: [Flood Extent Analysis Notebook](https://colab.research.google.com/drive/1Auuw1PewYqwSNqEhCh65SIvw6Qrrl8Xf?usp=drive_link)
 
 ### Project 2
 - Description
