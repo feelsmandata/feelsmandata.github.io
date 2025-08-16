@@ -7,8 +7,14 @@
 - **Link**: [Flood Extent Analysis Notebook](https://colab.research.google.com/drive/1Auuw1PewYqwSNqEhCh65SIvw6Qrrl8Xf?usp=drive_link)
 
 ### Project 2
-- Description
-- Links
+- **Description** : this project appears to be focused on analyzing ride booking data to understand various aspects of the ride-hailing service. This includes:
+            Exploring booking trends over time.
+            Analyzing booking statuses and identifying reasons for cancellations.
+            Identifying popular pickup and drop locations.
+            Examining driver and customer ratings.
+            Building predictive models, likely to predict booking outcomes or other relevant metrics.
+            Overall, the project seems aimed at gaining insights into the ride booking operations to potentially improve service, understand user behavior, and optimize operations.
+- **Link** : [Uber Data Analysis / ML Analysis](https://colab.research.google.com/drive/18c2uXkct2OsHriupxuQm1K5UsEAmBq3z#scrollTo=chvU20juSNRc)
 
 ---
 
