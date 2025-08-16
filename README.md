@@ -7,7 +7,7 @@
 - **Link**: [Flood Extent Analysis Notebook](https://colab.research.google.com/drive/1Auuw1PewYqwSNqEhCh65SIvw6Qrrl8Xf?usp=drive_link)
 
 ### Project 2
-- **Description** : this project appears to be focused on analyzing ride booking data to understand various aspects of the ride-hailing service. This includes:
+- **Description** : This project appears to be focused on analyzing ride booking data to understand various aspects of the ride-hailing service. This includes:
             Exploring booking trends over time.
             Analyzing booking statuses and identifying reasons for cancellations.
             Identifying popular pickup and drop locations.
