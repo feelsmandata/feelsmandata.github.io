@@ -43,11 +43,11 @@
 
 # Work History
 - **Australis Asset Advisory Group**  
-  🗺️ GIS | Data Specialist / Data Analyst
+  🗺️ GIS | Data Specialist | Data Analyst
   *2023 – Present*  
 
 - **AB Surveying and Development**  
-  📊 GIS | Data Processor / Lidar Processing
+  📊 GIS | Data Processor | Lidar Processing
   *2017 – 2023*  
 
 - **Golden Arches**  
