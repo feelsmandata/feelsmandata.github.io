@@ -1,5 +1,3 @@
-# feelsmandata.github.io
-
 ## Projects
 
 ### Project 1: Flood Extent Analysis
