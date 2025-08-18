@@ -14,7 +14,10 @@
             Overall, the project seems aimed at gaining insights into the ride booking operations to potentially improve service, understand user behavior, and optimize operations.
 - **Link** : [Uber Data Analysis / ML Analysis](https://colab.research.google.com/drive/18c2uXkct2OsHriupxuQm1K5UsEAmBq3z#scrollTo=chvU20juSNRc)
 
----
+### Project 3
+- **Description** : A project analyzing retail store sales data to uncover trends, top-performing products, and monthly/quarterly revenue patterns. Includes data cleaning, aggregation, and visualization to provide actionable insights for business optimization.
+- **Link** : [Store Sales Data Analysis]([https://colab.research.google.com/drive/18c2uXkct2OsHriupxuQm1K5UsEAmBq3z#scrollTo=chvU20juSNRc](https://colab.research.google.com/drive/1SXTQQS3m1jz0umkcln9dcleZ5j4-Ijd3#scrollTo=cAyHuyFABhF5))
+
 
 # Education
 - **Naga College Foundation**  
@@ -43,10 +46,22 @@
 - **Australis Asset Advisory Group**  
   🗺️ GIS | Data Specialist | Data Analyst
   *2023 – Present*  
-
+  **Responsibilities:**  
+  - Collecting, cleaning, and analyzing geospatial, tabular data for actionable insights and sales
+  - Creating dashboards, visualizations, and reports to support business decisions  
+  - Performing data transformations, aggregations, and statistical analysis  
+  - Collaborating with teams to implement data-driven solutions and improve workflows
+  - Creating a scripts to lessen manual mode
+  - Creating shapefiles based on the lotplan, map layers and overlapping analysis
+ 
 - **AB Surveying and Development**  
   📊 GIS | Data Processor | Lidar Processing
-  *2017 – 2023*  
+  *2017 – 2023*
+  - Created and maintained databases of project timelines to track and estimate project durations  
+  - Cleaned and processed LiDAR data using Global Mapper and RIEGL software  
+  - Performed basic remote sensing analysis and spatial data processing in QGIS  
+  - Developed 3D visualizations of buildings, roads, and rivers using 3D CAD software  
+  - Collaborated with teams to integrate geospatial data into project planning and reporting 
 
 - **Golden Arches**  
   ☕ Customer Service Representative  
