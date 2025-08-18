@@ -16,7 +16,7 @@
 
 ### Project 3
 - **Description** : A project analyzing retail store sales data to uncover trends, top-performing products, and monthly/quarterly revenue patterns. Includes data cleaning, aggregation, and visualization to provide actionable insights for business optimization.
-- **Link** : [Store Sales Data Analysis]([https://colab.research.google.com/drive/18c2uXkct2OsHriupxuQm1K5UsEAmBq3z#scrollTo=chvU20juSNRc](https://colab.research.google.com/drive/1SXTQQS3m1jz0umkcln9dcleZ5j4-Ijd3#scrollTo=cAyHuyFABhF5))
+- **Link** : [Store Sales Data Analysis](https://colab.research.google.com/drive/1SXTQQS3m1jz0umkcln9dcleZ5j4-Ijd3#scrollTo=Ygwi3nTSC9AD)
 
 
 # Education
