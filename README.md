@@ -43,7 +43,7 @@
 ---
 
 # Work History
-- **Australis Asset Advisory Group**  
+- **AAA Group**  
   🗺️ GIS | Data Specialist | Data Analyst
   *2023 – Present*  
   **Responsibilities:**  
