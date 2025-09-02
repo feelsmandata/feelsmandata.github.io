@@ -4,7 +4,7 @@
 - **Description**: This project focuses on analyzing flood extents across various regions. It includes geospatial data processing, data cleaning and visualizations to understand areas most affected by floods and their associated risks to the population.
 - **Link**: [Flood Extent Analysis Notebook](https://colab.research.google.com/drive/1Auuw1PewYqwSNqEhCh65SIvw6Qrrl8Xf?usp=drive_link)
 
-### Project 2
+### Project 2: Uber Data Analysis
 - **Description** : This project appears to be focused on analyzing ride booking data to understand various aspects of the ride-hailing service. This includes:
             Exploring booking trends over time.
             Analyzing booking statuses and identifying reasons for cancellations.
@@ -14,7 +14,7 @@
             Overall, the project seems aimed at gaining insights into the ride booking operations to potentially improve service, understand user behavior, and optimize operations.
 - **Link** : [Uber Data Analysis / ML Analysis](https://colab.research.google.com/drive/18c2uXkct2OsHriupxuQm1K5UsEAmBq3z#scrollTo=chvU20juSNRc)
 
-### Project 3
+### Project 3: Store Sales Data Analysis
 - **Description** : A project analyzing retail store sales data to uncover trends, top-performing products, and monthly/quarterly revenue patterns. Includes data cleaning, aggregation, and visualization to provide actionable insights for business optimization.
 - **Link** : [Store Sales Data Analysis](https://colab.research.google.com/drive/1SXTQQS3m1jz0umkcln9dcleZ5j4-Ijd3#scrollTo=Ygwi3nTSC9AD)
 
@@ -53,7 +53,20 @@
   - Collaborating with teams to implement data-driven solutions and improve workflows
   - Creating a scripts to lessen manual mode
   - Creating shapefiles based on the lotplan, map layers and overlapping analysis
- 
+
+- **Freelance Data Analyst**
+  📖 Data Specialist | Data Analyst
+  *2022 – Present*
+  **Responsibilities:**
+  - Designed and automated ETL/ELT pipelines to extract real estate data from websites (e.g., Pricefinder) and transform it into structured datasets for analysis.
+  - Cleaned, standardized, and integrated property, pricing, and location datasets to ensure data accuracy and consistency across multiple sources.
+  - Developed interactive dashboards in Power BI and Excel, providing actionable insights on market trends, property valuations, and customer behavior.
+  - Applied Python for data preprocessing, feature engineering, and automation of recurring reporting tasks.
+  - Collaborated with stakeholders to identify key metrics (KPIs) such as property pricing trends, demand hotspots, and investment opportunities.
+  - Conducted exploratory data analysis (EDA) to uncover insights that supported decision-making in real estate acquisitions and sales.
+  - Built data-driven reports and visualizations to monitor portfolio performance and market competitiveness.
+  - Ensured data quality and governance by implementing validation checks, logging, and exception handling within pipelines.
+  
 - **AB Surveying and Development**  
   📊 GIS | Data Processor | Lidar Processing
   *2017 – 2023*
@@ -65,9 +78,13 @@
 
 - **Golden Arches**  
   ☕ Customer Service Representative  
-  *2012 – 2017*  
-
-
+  *2012 – 2017*
+  - Delivered excellent customer service by assisting guests, taking orders, and ensuring accurate transactions.
+  - Maintained a clean, safe, and organized work environment in both front and back-of-house operations.
+  - Collaborated with team members to meet service goals during high-volume periods.
+  - Gained strong interpersonal and communication skills through daily customer interactions.
+  - Demonstrated reliability, adaptability, and teamwork in a fast-paced environment.
+ 
 ---
 
 # Certifications
