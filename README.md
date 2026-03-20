@@ -58,39 +58,42 @@
   - Develop scripts to reduce manual processes  
   - Create shapefiles and perform map layering and overlap analysis  
 
-- 📖 **Data Specialist | Data Analyst**
-  **Freelance**
-  *2022 – Present*
-  **Responsibilities:**
-  - Designed and automated ETL/ELT pipelines to extract real estate data from websites (e.g., Pricefinder) and transform it into structured datasets for analysis.
-  - Cleaned, standardized, and integrated property, pricing, and location datasets to ensure data accuracy and consistency across multiple sources.
-  - Developed interactive dashboards in Power BI and Excel, providing actionable insights on market trends, property valuations, and customer behavior.
-  - Applied Python for data preprocessing, feature engineering, and automation of recurring reporting tasks.
-  - Collaborated with stakeholders to identify key metrics (KPIs) such as property pricing trends, demand hotspots, and investment opportunities.
-  - Conducted exploratory data analysis (EDA) to uncover insights that supported decision-making in real estate acquisitions and sales.
-  - Built data-driven reports and visualizations to monitor portfolio performance and market competitiveness.
-  - Ensured data quality and governance by implementing validation checks, logging, and exception handling within pipelines.
+- 📖 **Data Specialist | Data Analyst**  
+  **Freelance**  
+  *2022 – Present*  
 
-- 📊 **GIS | Data Processor | Lidar Processing**
+  **Responsibilities:**
+  - Designed and automated ETL/ELT pipelines to extract real estate data from websites (e.g., Pricefinder) and transform it into structured datasets for analysis  
+  - Cleaned, standardized, and integrated property, pricing, and location datasets to ensure data accuracy and consistency across multiple sources  
+  - Developed interactive dashboards in Power BI and Excel, providing actionable insights on market trends, property valuations, and customer behavior  
+  - Applied Python for data preprocessing, feature engineering, and automation of recurring reporting tasks  
+  - Collaborated with stakeholders to identify key metrics (KPIs) such as property pricing trends, demand hotspots, and investment opportunities  
+  - Conducted exploratory data analysis (EDA) to support decision-making in real estate acquisitions and sales  
+  - Built data-driven reports and visualizations to monitor portfolio performance and market competitiveness  
+  - Ensured data quality and governance by implementing validation checks, logging, and exception handling within pipelines  
+
+- 📊 **GIS | Data Processor | LiDAR Processing**  
   **AB Surveying and Development**  
-  *2017 – 2023*
+  *2017 – 2023*  
+
   **Responsibilities:**
   - Created and maintained databases of project timelines to track and estimate project durations  
   - Cleaned and processed LiDAR data using Global Mapper and RIEGL software  
   - Performed remote sensing analysis and spatial data processing in QGIS  
   - Developed 3D visualizations of buildings, roads, and rivers using 3D CAD software  
-  - Collaborated with teams to integrate geospatial data into project planning and reporting
-  - 
-- ☕ **Customer Service Representative**
+  - Collaborated with teams to integrate geospatial data into project planning and reporting  
+    
+- ☕ **Customer Service Representative**  
   **Golden Arches**  
-  *2012 – 2017*
+  *2012 – 2017*  
+
   **Responsibilities:**
-  - Delivered excellent customer service by assisting guests, taking orders, and ensuring accurate transactions.
-  - Maintained a clean, safe, and organized work environment in both front and back-of-house operations.
-  - Collaborated with team members to meet service goals during high-volume periods.
-  - Gained strong interpersonal and communication skills through daily customer interactions.
-  - Demonstrated reliability, adaptability, and teamwork in a fast-paced environment.
- 
+  - Delivered excellent customer service by assisting guests, taking orders, and ensuring accurate transactions  
+  - Maintained a clean, safe, and organized work environment in both front and back-of-house operations  
+  - Collaborated with team members to meet service goals during high-volume periods  
+  - Gained strong interpersonal and communication skills through daily customer interactions  
+  - Demonstrated reliability, adaptability, and teamwork in a fast-paced environment
+    
 ---
 
 # Certifications
