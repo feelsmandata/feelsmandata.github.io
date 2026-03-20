@@ -58,7 +58,7 @@
   - Creating shapefiles based on the lotplan, map layers and overlapping analysis
 
 - **Freelance**
-  📖 Data Specialist | Data Analyst
+- 📖 Data Specialist | Data Analyst
   *2022 – Present*
   **Responsibilities:**
   - Designed and automated ETL/ELT pipelines to extract real estate data from websites (e.g., Pricefinder) and transform it into structured datasets for analysis.
