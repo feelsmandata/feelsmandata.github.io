@@ -48,9 +48,9 @@
 # Work History
  
 - 🗺️ **GIS | Data Specialist | Data Analyst**
-  **AAA Group** 
+  *AAA Group*
   *2023 – Present*  
-  **Responsibilities:**  
+  *Responsibilities:* 
   - Collecting, cleaning, and analyzing geospatial, tabular data for actionable insights and sales
   - Creating dashboards, visualizations, and reports to support business decisions  
   - Performing data transformations, aggregations, and statistical analysis  
