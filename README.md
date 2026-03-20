@@ -47,16 +47,16 @@
 
 # Work History
  
-- 🗺️ **GIS | Data Specialist | Data Analyst**
-  *AAA Group*
+- 🗺️ **GIS | Data Specialist | Data Analyst**  
+  **AAA Group**  
   *2023 – Present*  
-  *Responsibilities:* 
-  - Collecting, cleaning, and analyzing geospatial, tabular data for actionable insights and sales
-  - Creating dashboards, visualizations, and reports to support business decisions  
-  - Performing data transformations, aggregations, and statistical analysis  
-  - Collaborating with teams to implement data-driven solutions and improve workflows
-  - Creating a scripts to lessen manual mode
-  - Creating shapefiles based on the lotplan, map layers and overlapping analysis
+
+  **Responsibilities:**
+  - Collect, clean, and analyze geospatial and tabular data  
+  - Create dashboards, visualizations, and reports  
+  - Perform data transformations and statistical analysis  
+  - Develop scripts to reduce manual processes  
+  - Create shapefiles and perform map layering and overlap analysis  
 
 - 📖 **Data Specialist | Data Analyst**
   **Freelance**
