@@ -46,8 +46,9 @@
 ---
 
 # Work History
-- **AAA Group**  
-  🗺️ GIS | Data Specialist | Data Analyst
+ 
+- 🗺️ **GIS | Data Specialist | Data Analyst**
+  **AAA Group** 
   *2023 – Present*  
   **Responsibilities:**  
   - Collecting, cleaning, and analyzing geospatial, tabular data for actionable insights and sales
@@ -57,8 +58,8 @@
   - Creating a scripts to lessen manual mode
   - Creating shapefiles based on the lotplan, map layers and overlapping analysis
 
-- **Freelance**
-  📖 Data Specialist | Data Analyst
+- 📖 **Data Specialist | Data Analyst**
+  **Freelance**
   *2022 – Present*
   **Responsibilities:**
   - Designed and automated ETL/ELT pipelines to extract real estate data from websites (e.g., Pricefinder) and transform it into structured datasets for analysis.
@@ -69,19 +70,21 @@
   - Conducted exploratory data analysis (EDA) to uncover insights that supported decision-making in real estate acquisitions and sales.
   - Built data-driven reports and visualizations to monitor portfolio performance and market competitiveness.
   - Ensured data quality and governance by implementing validation checks, logging, and exception handling within pipelines.
-  
-- **AB Surveying and Development**  
-  📊 GIS | Data Processor | Lidar Processing
+
+- 📊 **GIS | Data Processor | Lidar Processing**
+  **AB Surveying and Development**  
   *2017 – 2023*
+  **Responsibilities:**
   - Created and maintained databases of project timelines to track and estimate project durations  
   - Cleaned and processed LiDAR data using Global Mapper and RIEGL software  
-  - Performed basic remote sensing analysis and spatial data processing in QGIS  
+  - Performed remote sensing analysis and spatial data processing in QGIS  
   - Developed 3D visualizations of buildings, roads, and rivers using 3D CAD software  
-  - Collaborated with teams to integrate geospatial data into project planning and reporting 
-
-- **Golden Arches**  
-  ☕ Customer Service Representative  
+  - Collaborated with teams to integrate geospatial data into project planning and reporting
+  - 
+- ☕ **Customer Service Representative**
+  **Golden Arches**  
   *2012 – 2017*
+  **Responsibilities:**
   - Delivered excellent customer service by assisting guests, taking orders, and ensuring accurate transactions.
   - Maintained a clean, safe, and organized work environment in both front and back-of-house operations.
   - Collaborated with team members to meet service goals during high-volume periods.
