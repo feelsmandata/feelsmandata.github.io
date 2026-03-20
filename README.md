@@ -60,7 +60,6 @@
 - **Freelance**
   📖 Data Specialist | Data Analyst
   *2022 – Present*
-  
   **Responsibilities:**
   - Designed and automated ETL/ELT pipelines to extract real estate data from websites (e.g., Pricefinder) and transform it into structured datasets for analysis.
   - Cleaned, standardized, and integrated property, pricing, and location datasets to ensure data accuracy and consistency across multiple sources.
